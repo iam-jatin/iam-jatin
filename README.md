@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">, I'm Jatin Kumar <img src="images/programming.svg></h1>
+<h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">, I'm Jatin Kumar</h1>
 <h3 align="center">A passionate developer from India <img src="" width="14"/> </h3>
 
 <b>My name is Jatin Kumar</b>
