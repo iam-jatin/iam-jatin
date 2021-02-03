@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="(https://visitor-badge.glitch.me/badge?page_id=iam-jatin.iam-jatin)"
-      <img align="center" src="(http://hits.dwyl.com/iam-jatin/iam-jatin.svg)">
     </a>
   </p>
 </p>
