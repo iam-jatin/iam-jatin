@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
   <p align="center">
-    <a href="[![HitCount]](http://hits.dwyl.com/iam-jatin/iam-jatin)">
+    <a href="(http://hits.dwyl.com/iam-jatin/iam-jatin)">
       <img align="center" src="(http://hits.dwyl.com/iam-jatin/iam-jatin.svg)">
     </a>
   </p>
