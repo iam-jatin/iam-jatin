@@ -29,8 +29,10 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Github Stats:
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-jatin&show_icons=true&theme=buefy)](https://github.com/iam-jatin/github-readme-stats)
-<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-jatin&layout=compact&show_icons=true&theme=buefy)](https://github.com/iam-jatin/github-readme-stats)</p>
 
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-jatin&layout=compact&show_icons=true&theme=buefy)](https://github.com/iam-jatin/github-readme-stats)
+</p>
 
 # Let's Connect :coffee::
 <p align="center">
