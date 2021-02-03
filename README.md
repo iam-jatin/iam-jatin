@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
   <p align="center">
-    <a href="(https://visitor-badge.glitch.me/badge?page_id=iam-jatin.iam-jatin)"</a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=iam-jatin.iam-jatin"/>
   </p>
 
 ![bottom.svg](./images/bottom.svg)
