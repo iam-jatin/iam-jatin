@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # Github Stats
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-jatin&show_icons=true&theme=buefy)](https://github.com/iam-jatin/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-jatin&repo=github-readme-stats&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's Connect :coffee:
 <p align="center">
