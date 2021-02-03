@@ -1,4 +1,4 @@
-# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
+# align="center" Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
 
 <b>My name is Jatin Kumar</b>
 
