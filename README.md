@@ -1,5 +1,4 @@
 <h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">, I'm Jatin Kumar</h1>
-<h3 align="center">A passionate developer from India <img src="" width="14"/> </h3>
 
 # About myself
 A passionate individual who loves building web applications, a developer by passion, an engineer by profession and a gamer by interest.
