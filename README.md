@@ -9,12 +9,10 @@ The motto of my life is to be determined towards the software world and its deve
 **i-am-jatin/i-am-jatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React, Android.
+- 🔭 I’m currently working on Web Development Projects.<br />
+- 🌱 I’m currently learning React, Node Js and Android.
 - 👯 I’m looking to collaborate on Web Projects.
 - 💬 Ask me about Web Development.
-- 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Watched 100+ Anime Series.
 
