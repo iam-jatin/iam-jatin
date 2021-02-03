@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 # Tech Stack:
-### Front End
+### Front End:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
 
 ### Back End:
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-jatin&layout=compact&show_icons=true&theme=buefy)](https://github.com/iam-jatin/github-readme-stats)
 
 
-# Let's Connect :coffee:
+# Let's Connect :coffee::
 <p align="center">
 	<a href="https://github.com/i-am-jatin"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jatin-kumar-singh-rathore/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
