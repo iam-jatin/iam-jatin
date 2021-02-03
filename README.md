@@ -1,4 +1,7 @@
-# align="center" Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
+# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">
+
+<h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21">, I'm Jatin Kumar <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></h1>
+<h3 align="center">A passionate developer from India <img src="" width="14"/> </h3>
 
 <b>My name is Jatin Kumar</b>
 
