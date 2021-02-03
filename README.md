@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
 
 # Github Stats
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-jatin&show_icons=true)](https://github.com/iam-jatin/github-readme-stats
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-jatin&show_icons=true)](https://github.com/iam-jatin/github-readme-stats)
 
 
 ### Let's Connect :coffee:
